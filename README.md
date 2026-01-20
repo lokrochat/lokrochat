@@ -35,4 +35,7 @@ We work with our own and custom dashboards to monitor stats and uptime data.
 ### What we see:
 We only see your internal userID. **No passwords, contacts or phonenumbers**
 
-###
+### LogIn and Registration
+You can login by Email, Discord, Google or GitHub
+To use discord, simply connect the app with your discord account. Use this account to login without password
+
