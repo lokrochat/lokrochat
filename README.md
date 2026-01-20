@@ -1,4 +1,4 @@
-# LokroChat - Chat with your friends and family in realtime! Secured with AES GCM and our innovative securiyprogramme
+# LokroChat - Chat with your friends and family in realtime! Secured with AES GCM and our innovative securityprogramme
 **LokroChat** is you friend for safety!
 Your Chats get encrypted directly in your browser and THEN send to our servers. 
 Using AES-GCM your Chats are even secured against AI bruteforce attacks!
